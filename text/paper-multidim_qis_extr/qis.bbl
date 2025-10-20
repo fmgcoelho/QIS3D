@@ -1,0 +1,63 @@
+\begin{thebibliography}{}
+
+\bibitem[Abu-Mostafa and Psaltis(1984)Abu-Mostafa and Psaltis]{moments3}
+Abu-Mostafa, Y.~S. and Psaltis, D. (1984).
+\newblock Recognitive aspects of moment invariants.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions on\/}, {\bf PAMI-6}(6), 698 --706.
+
+\bibitem[Alt(1962)Alt]{Alt1962}
+Alt, F.~L. (1962).
+\newblock Digital pattern recognition by moments.
+\newblock {\em J. ACM\/}, {\bf 9}(2), 240--258.
+
+\bibitem[Chen {\em et~al.}(1994)Chen, Defrise, and Deconinck]{fm2}
+Chen, Q.-S., Defrise, M., and Deconinck, F. (1994).
+\newblock Symmetric phase-only matched filtering of fourier-mellin transforms for image registration and recognition.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions on\/}, {\bf 16}(12), 1156 --1168.
+
+\bibitem[Derrode and Ghorbel(2004)Derrode and Ghorbel]{fm1}
+Derrode, S. and Ghorbel, F. (2004).
+\newblock Shape analysis and symmetry detection in gray-level objects using the analytical {F}ourier-{M}ellin representation.
+\newblock {\em Signal Process.}, {\bf 84}(1), 25--39.
+
+\bibitem[EgmontPetersen(2002)EgmontPetersen]{nn1}
+EgmontPetersen, M. (2002).
+\newblock {Image processing with neural networks—a review}.
+\newblock {\em Pattern Recognition\/}, {\bf 35}(10), 2279--2301.
+
+\bibitem[Goshtasby(1985)Goshtasby]{tm1}
+Goshtasby, A. (1985).
+\newblock Template matching in rotated images.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions on\/}, {\bf PAMI-7}(3), 338 --344.
+
+\bibitem[Horn(1987)Horn]{omm1}
+Horn, B. (1987).
+\newblock Closed form solutions of absolute orientation using orthonormal matrices.
+\newblock {\em J. of the Optical Soc. Am.}, {\bf JOSA-5}(7), 1127--1135.
+
+\bibitem[Hu(1962)Hu]{moments1}
+Hu, M.~K. (1962).
+\newblock Visual pattern recognition by moment invariants.
+\newblock {\em IRE Trans. on Information Theory\/}, {\bf IT-8}, 179--187.
+
+\bibitem[Shahbazkia and dos Anjos(2009)Shahbazkia and dos Anjos]{Shahbazkia2009}
+Shahbazkia, H. and dos Anjos, A. (2009).
+\newblock Quick invariant signature extraction from binary images.
+\newblock In {\em Proc. IEEE Int Signal Processing and Information Technology (ISSPIT) Symp\/}, pages 172--177.
+
+\bibitem[Sheng and Arsenault(1986)Sheng and Arsenault]{fm3}
+Sheng, A. and Arsenault, H. (1986).
+\newblock Experiments on pattern recognition using invariant fourier-mellin descriptors.
+\newblock {\em Journal of the Optical Society America\/}, {\bf 3}(6), 771--776.
+
+\bibitem[Spirkovska and Reid(1990)Spirkovska and Reid]{Spirkovska1990}
+Spirkovska, L. and Reid, M. (1990).
+\newblock Connectivity strategies for higher-order neural networks applied to pattern recognition.
+\newblock In {\em Neural Networks, 1990., 1990 IJCNN International Joint Conference on\/}, pages 21 --26 vol.1.
+
+\bibitem[Teh and Chin(1988)Teh and Chin]{moments2}
+Teh, C.-H. and Chin, R. (1988).
+\newblock On image analysis by the methods of moments.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions on\/}, {\bf 10}(4), 496 --513.
+
+\end{thebibliography}

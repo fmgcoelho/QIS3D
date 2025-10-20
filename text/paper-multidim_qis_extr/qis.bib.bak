@@ -1,0 +1,201 @@
+% This file was created with JabRef 2.7b.
+% Encoding: UTF-8
+
+@ARTICLE{moments3,
+  author = {Abu-Mostafa, Yaser S. and Psaltis, Demetri},
+  title = {Recognitive Aspects of Moment Invariants},
+  journal = {Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  year = {1984},
+  volume = {PAMI-6},
+  pages = {698 -706},
+  number = {6},
+  month = {nov. },
+  doi = {10.1109/TPAMI.1984.4767594},
+  issn = {0162-8828}
+}
+
+@ARTICLE{Alt1962,
+  author = {Alt, Franz L.},
+  title = {Digital Pattern Recognition by Moments},
+  journal = {J. ACM},
+  year = {1962},
+  volume = {9},
+  pages = {240--258},
+  number = {2},
+  address = {New York, NY, USA},
+  doi = {http://doi.acm.org/10.1145/321119.321122},
+  issn = {0004-5411},
+  publisher = {ACM}
+}
+
+@ARTICLE{fm2,
+  author = {Qin-Sheng Chen and Defrise, M. and Deconinck, F.},
+  title = {Symmetric phase-only matched filtering of Fourier-Mellin transforms
+	for image registration and recognition},
+  journal = {Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  year = {1994},
+  volume = {16},
+  pages = {1156 -1168},
+  number = {12},
+  month = {dec},
+  __markedentry = {[aanjos:6]},
+  doi = {10.1109/34.387491},
+  issn = {0162-8828},
+  keywords = {2D image matching;Fourier-Mellin invariant descriptor;Fourier-Mellin
+	transforms;algorithm performance;discrete implementation;discriminating
+	power;fingerprint recognition;image detection problems;image recognition;image
+	registration;image translations;medical imaging;multiobject identification;noise;parameter
+	space translations;remote sensing;robustness;rotated reference image;scaled
+	reference image;symmetric phase-only matched filtering;translated
+	reference image;translation invariance;Fourier transforms;filtering
+	theory;fingerprint identification;image matching;image registration;matched
+	filters;medical image processing;noise;object recognition;remote
+	sensing;rotation;}
+}
+
+@ARTICLE{fm1,
+  author = {Derrode, St\'{e}phane and Ghorbel, Faouzi},
+  title = {Shape analysis and symmetry detection in gray-level objects using
+	the analytical {F}ourier-{M}ellin representation},
+  journal = {Signal Process.},
+  year = {2004},
+  volume = {84},
+  pages = {25--39},
+  number = {1},
+  address = {Amsterdam, The Netherlands, The Netherlands},
+  doi = {http://dx.doi.org/10.1016/j.sigpro.2003.07.006},
+  issn = {0165-1684},
+  publisher = {Elsevier North-Holland, Inc.}
+}
+
+@ARTICLE{nn1,
+  author = {EgmontPetersen, M.},
+  title = {{Image processing with neural networks—a review}},
+  journal = {Pattern Recognition},
+  year = {2002},
+  volume = {35},
+  pages = {2279--2301},
+  number = {10},
+  month = oct,
+  abstract = {{We review more than 200 applications of neural networks in image
+	processing and discuss the present and possible future role of neural
+	networks, especially feed-forward neural networks, Kohonen feature
+	maps and Hopfield neural networks. The various applications are categorised
+	into a novel two-dimensional taxonomy for image processing algorithms.
+	One dimension specifies the type of task performed by the algorithm:
+	preprocessing, data reduction/feature extraction, segmentation, object
+	recognition, image understanding and optimisation. The other dimension
+	captures the abstraction level of the input data processed by the
+	algorithm: pixel-level, local feature-level, structure-level, object-level,
+	object-set-level and scene characterisation. Each of the six types
+	of tasks poses specific constraints to a neural-based approach. These
+	specific conditions are discussed in detail. A synthesis is made
+	of unresolved problems related to the application of pattern recognition
+	techniques in image processing and specifically to the application
+	of neural networks. Finally, we present an outlook into the future
+	application of neural networks and relate them to novel developments.}},
+  citeulike-article-id = {3871731},
+  citeulike-linkout-0 = {http://dx.doi.org/10.1016/S0031-3203(01)00178-9},
+  citeulike-linkout-1 = {http://linkinghub.elsevier.com/retrieve/pii/S0031-3203(01)00178-9},
+  doi = {10.1016/S0031-3203(01)00178-9},
+  issn = {00313203},
+  posted-at = {2009-01-09 15:42:34},
+  priority = {2},
+  url = {http://dx.doi.org/10.1016/S0031-3203(01)00178-9}
+}
+
+@ARTICLE{tm1,
+  author = {Goshtasby, Ardeshir},
+  title = {Template Matching in Rotated Images},
+  journal = {Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  year = {1985},
+  volume = {PAMI-7},
+  pages = {338 -344},
+  number = {3},
+  month = {may },
+  doi = {10.1109/TPAMI.1985.4767663},
+  issn = {0162-8828}
+}
+
+@ARTICLE{omm1,
+  author = {Horn, B.K.P.},
+  title = {Closed Form Solutions of Absolute Orientation Using Orthonormal Matrices},
+  journal = {J. of the Optical Soc. Am.},
+  year = {1987},
+  volume = {JOSA-5},
+  pages = {1127-1135},
+  number = {7}
+}
+
+@ARTICLE{moments1,
+  author = {Hu, Ming K. },
+  title = {Visual Pattern Recognition by Moment Invariants},
+  journal = {IRE Trans. on Information Theory},
+  year = {1962},
+  volume = {IT-8},
+  pages = {179--187},
+  month = {February},
+  citeulike-article-id = {1145276},
+  keywords = {bibtex-import},
+  posted-at = {2007-03-07 09:31:28},
+  priority = {2}
+}
+
+@INPROCEEDINGS{Shahbazkia2009,
+  author = {Shahbazkia, H.  and dos Anjos, A. },
+  title = {Quick invariant signature extraction from binary images},
+  booktitle = {Proc. IEEE Int Signal Processing and Information Technology (ISSPIT)
+	Symp},
+  year = {2009},
+  pages = {172--177},
+  __markedentry = {[aanjos:]},
+  doi = {10.1109/ISSPIT.2009.5407592},
+  owner = {aanjos},
+  timestamp = {2011.07.20}
+}
+
+@ARTICLE{fm3,
+  author = {Sheng, A.Y. and Arsenault, H.H.},
+  title = {Experiments on Pattern Recognition Using Invariant Fourier-Mellin
+	Descriptors},
+  journal = {Journal of the Optical Society America},
+  year = {1986},
+  volume = {3},
+  pages = {771-776},
+  number = {6},
+  month = {June}
+}
+
+@INPROCEEDINGS{Spirkovska1990,
+  author = {Spirkovska, L. and Reid, M.B.},
+  title = {Connectivity strategies for higher-order neural networks applied
+	to pattern recognition},
+  booktitle = {Neural Networks, 1990., 1990 IJCNN International Joint Conference
+	on},
+  year = {1990},
+  pages = {21 -26 vol.1},
+  month = {jun.},
+  doi = {10.1109/IJCNN.1990.137538},
+  journal = {Neural Networks, 1990., 1990 IJCNN International Joint Conference
+	on},
+  keywords = {connection strategies;higher-order neural networks;interconnections;pattern
+	recognition;pattern-recognition;regional connectivity;computerised
+	pattern recognition;neural nets;}
+}
+
+@ARTICLE{moments2,
+  author = {Teh, C.-H. and Chin, R.T.},
+  title = {On image analysis by the methods of moments},
+  journal = {Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  year = {1988},
+  volume = {10},
+  pages = {496 -513},
+  number = {4},
+  month = {jul},
+  doi = {10.1109/34.3913},
+  issn = {0162-8828},
+  keywords = {Legendre moments;Zernike moments;complex moments;image analysis;image-representation;information
+	redundancy;noise sensitivity;pattern recognition;picture processing;regular
+	moments;rotational moments;pattern recognition;picture processing;}
+}
+
